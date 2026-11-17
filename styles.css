@@ -12,7 +12,25 @@ body {
     color: white;
 }
 
+.projects-section h1{
+    color: white;
+    text-align: center;
+}
+
 .page2body {
     background-color: black;
     color: white;
+}
+
+.page2divbox {
+    background-color: black;
+    padding: 20px;
+    border: 2px solid #5eea67;
+    border-radius: 8px;
+    flex: 1 1 180px;
+}
+
+.page2divbox h3 {
+    color: white;
+    margin-top: 0;
 }
