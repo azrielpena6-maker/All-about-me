@@ -1,3 +1,10 @@
 body{
     background-color: black;
 }
+.projects-section {
+    padding: 30px;
+    margin: 20px 0;
+    border: 2px solid #2563eb;
+    border-radius: 10px;
+    color: white;
+}
