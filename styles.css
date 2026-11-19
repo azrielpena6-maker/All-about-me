@@ -6,7 +6,7 @@ body {
 .projects-section {
     padding: 30px;
     margin: 20px 0;
-    border: 2px solid #2563eb;
+    border: 2px solid #58ee8c;
     border-radius: 10px;
     text-align: center;
     color: white;
@@ -25,7 +25,7 @@ body {
 .page2divbox {
     background-color: black;
     padding: 20px;
-    border: 2px solid #5eea67;
+    border: 2px solid #58ee8c;
     border-radius: 8px;
     flex: 1 1 180px;
 }
@@ -33,4 +33,49 @@ body {
 .page2divbox h3 {
     color: white;
     margin-top: 0;
+}
+
+button{
+    background-color: white;
+
+    border-radius: 16px;
+}
+
+.button1{
+    border: 5px solid;
+    border-color: white;
+}
+
+.button2{
+    border: 5px solid;
+    border-color: white;
+}
+
+.button3{
+    border: 5px solid;
+    border-color: white;
+}
+
+.button4{
+    border: 5px solid;
+    border-color: white;
+}
+
+.button5{
+    border: 5px solid;
+    border-color: white;
+}
+
+.button6{
+    border: 5px solid;
+    border-color: white;
+}
+
+.third-section{
+    padding: 30px;
+    margin: 20px 0;
+    border: 2px solid #58ee8c;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
 }
